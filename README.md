@@ -1,7 +1,8 @@
 # Hi 👋, I'm Yuri Moreira
 
-🚀 **Beginner Software Engineer | Java & Python**  
+🚀 **Beginner Software Engineer | UP | Java & Python**  
 🇧🇷 Brazil
+
 
 
 **software development**.
